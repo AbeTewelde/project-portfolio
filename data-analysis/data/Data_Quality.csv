@@ -1,0 +1,5 @@
+Dataset Name,Data Completeness (%),Error Rate (%),Time to Resolve Issues (Hours)
+Sales Data,95,5,4
+Customer Data,90,10,8
+Inventory Data,85,15,12
+Finance Data,98,2,3
